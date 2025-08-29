@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksajwan07&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksajwan07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksajwan07" alt="abhisheksajwan07" /></a> </p>
+
 
 - 🌱 I’m currently learning **Node.js, Express, NestJS (backend) DSA / Algorithms Docker / Microservices basics Optional: React.js / frontend**
 
