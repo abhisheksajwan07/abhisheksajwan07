@@ -42,4 +42,4 @@ Docker • AWS • Linux • Git • Postman
 ## Connect
 
 * LinkedIn: linkedin.com/in/abhishek-sajwan-4840a1285
-* Email: [asajwan.dev@gmail.com](mailto:asajwan.dev@gmail.com)
+* Email: [abhisheksajwandev07@gmail.com](mailto:abhisheksajwandev07@gmail.com)
