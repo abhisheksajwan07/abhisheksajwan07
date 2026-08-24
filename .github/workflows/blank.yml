@@ -2,9 +2,12 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:
+
+# Add these lines to give the action permission to update your README
+permissions:
+  contents: write
 
 jobs:
   update-readme:
