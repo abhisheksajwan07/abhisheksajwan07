@@ -1,4 +1,4 @@
-<div align="center">
+<img width="511" height="87" alt="image" src="https://github.com/user-attachments/assets/3ab7c68a-49bc-4b8b-91d7-287f1cd454be" /><div align="center">
 
 **A passionate backend focused -> fullstack engineer from India**
 
@@ -23,7 +23,7 @@ SQL            23 mins               ▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-![WakaTime Graph](https://wakatime.com/share/@0b83ee09-0eed-420d-ad4f-36848c13d6b1/7e62f32c-2a5c-47c0-a028-241c6af71461.svg)
+![WakaTime Graph](https://wakatime.com/share/@0b83ee09-0eed-420d-ad4f-36848c13d6b1/92d9a161-f4b0-4d4b-9e34-285f7a420934.svg)
 
 ## 📬 Connect with me
 
