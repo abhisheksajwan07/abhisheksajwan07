@@ -13,6 +13,8 @@
 ```txt
 From: 19 August 2026 - To: 26 August 2026
 
+Total Time: 27 hrs 45 mins
+
 TypeScript     24 hrs 53 mins        ██████████████████████░░░   87.68 %
 JSON           1 hr 26 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 Other          37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
