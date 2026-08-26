@@ -1,6 +1,6 @@
 <div align="center">
 
-**A passionate fullstack engineer from India**
+**A passionate backend focused -> fullstack engineer from India**
 
 [![wakatime](https://wakatime.com/badge/user/0b83ee09-0eed-420d-ad4f-36848c13d6b1.svg)](https://wakatime.com/@0b83ee09-0eed-420d-ad4f-36848c13d6b1)
 
@@ -10,18 +10,10 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 19 August 2026 - To: 26 August 2026
 
-TypeScript     24 hrs 53 mins        ██████████████████████░░░   87.68 %
-JSON           1 hr 26 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Other          37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-YAML           30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-SQL            23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-```
 
 <!--END_SECTION:waka-->
-![WakaTime Graph](https://wakatime.com/share/@abhisheksajwan07/languages.svg)
+![WakaTime Graph](https://wakatime.com/share/@0b83ee09-0eed-420d-ad4f-36848c13d6b1/languages.svg)
 
 ## 📬 Connect with me
 
