@@ -23,7 +23,7 @@ SQL            23 mins               ▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-![WakaTime Graph](https://wakatime.com/share/@0b83ee09-0eed-420d-ad4f-36848c13d6b1/languages.svg)
+![WakaTime Graph](https://wakatime.com/share/@0b83ee09-0eed-420d-ad4f-36848c13d6b1/7e62f32c-2a5c-47c0-a028-241c6af71461.svg)
 
 ## 📬 Connect with me
 
