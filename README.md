@@ -1,4 +1,4 @@
-<img width="511" height="87" alt="image" src="https://github.com/user-attachments/assets/3ab7c68a-49bc-4b8b-91d7-287f1cd454be" /><div align="center">
+<div align="center">
 
 **A passionate backend focused -> fullstack engineer from India**
 
